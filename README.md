@@ -1,6 +1,6 @@
 # alimento
 
-A new Flutter application.
+Flutter Firebase Registration with Google and Email application.
 
 ## Getting Started
 
