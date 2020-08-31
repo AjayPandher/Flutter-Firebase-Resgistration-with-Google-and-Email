@@ -2,6 +2,7 @@
 
 Flutter Firebase Registration with Google and Email application.
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
