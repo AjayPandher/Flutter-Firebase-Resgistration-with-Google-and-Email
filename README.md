@@ -3,6 +3,8 @@
 
 Flutter Firebase Registration with Google and Email application.
 
+#Screenshots
+![Screen_Recording_1](https://user-images.githubusercontent.com/51448215/91710955-b5782280-eba2-11ea-9c67-4f1e3429b2f4.gif)
 
 ## Getting Started
 
