@@ -1,4 +1,5 @@
-# alimento
+# Flutter Firebase Registration with Google and Email application.
+
 
 Flutter Firebase Registration with Google and Email application.
 
